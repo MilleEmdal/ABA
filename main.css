@@ -1,0 +1,166 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-11-2017, 12:33:58
+    Author     : milleemdal
+*/
+*{
+    margin: 0;
+    padding: 0;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  0.8em;
+    margin: 10px 2% 47px 2%;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+/************* Indhold starter *************/
+
+article{
+    width: 99%;
+    height: 99%;
+    font-size:  1em;
+    margin-left: 20px;
+    margin-right: 100px;
+    
+}
+
+.img{
+    width: 25%;
+    height: 25%;
+}
+/************* Indhold slutter *****************/
+
+/************* Header starter *************/
+
+#header{
+    width: 99%;
+    background-color: #b9e4f1;
+}
+.overhead{
+    width: 89%;
+    text-align: center;
+    font-size: 2em;
+    margin-left: -150px;
+}
+
+.underhead{
+     width: 89%;
+    text-align: center;
+    font-size: 1.5em;
+    margin-left: 250px;
+}
+
+.logo{
+    display: block;
+    width: 9%;
+    height: 100px;
+    float: left;
+    margin: auto;
+}
+
+/************* Header slutter *****************/
+
+/******* Menu starter********/
+nav{
+    height: 40px;
+    bottom: 0;
+    left: 0;
+    width: 99%;
+    margin-bottom: 2px;
+    
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #226ed2;
+}
+
+ul.menu li {float: left;}
+
+ul.menu li a {
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+ul.menu li a:hover {background-color: #b9e4f1;}
+
+ul.menu li.icon {display: none;}
+
+@media screen and (max-width:680px) {
+  ul.menu li:not(:first-child) {display: none;}
+  ul.menu li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width:680px) {
+  ul.menu.responsive {position: relative;}
+  ul.menu.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.menu.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.menu.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
+
+/************* Menu slutter *****************/
+
+/************* Footer starter *************/
+#fb{
+    float: right;
+    margin-bottom: 320px;
+    height: 10px;
+    
+}
+
+#overfooter{
+    width: 99%;
+    height: 50px;
+    color: black;
+    line-height: 20px;
+    font-size: 1.1em;
+    margin-top: 100px;
+    text-align: center;
+}
+
+footer {
+    background: #226ed2;
+    width: 99%;
+    height: 30px;
+    text-align: center;
+    color: #f2f2f2;
+    line-height: 15px;
+    font-size: 1em;
+    margin-top: 50px;
+   
+}
+
+/************* Footer slutter *************/
