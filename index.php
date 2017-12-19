@@ -7,8 +7,6 @@ include 'dbcon.php';
         <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <link rel="stylesheet" href="main.css">
-        <!--<link rel="stylesheet" href="style/medium.css" media="screen and (min-width: 600px)">-->
-        <!--<link rel="stylesheet" href="style/large.css" media="screen and (min-width: 960px)">-->
         <title>ABA - K&oslash;benhavn</title>
     </head>
     <body>
@@ -46,7 +44,7 @@ include 'dbcon.php';
     
     </article>  
         <br>
-        
+        <!-- Footer starter -->
         <div id="overfooter">
             <?php include 'ofooter.php'; ?>
             <br>
@@ -54,6 +52,6 @@ include 'dbcon.php';
         
         <?php include 'footer.php'; ?>
     </div>
-        
+        <!-- Footer slutter -->
     </body>
 </html>

@@ -21,10 +21,6 @@ and open the template in the editor.
                 console.log( "ready!" );
             });
             
-            // Shorthand for $( document ).ready()
-                //$(function() {
-                    //console.log( "ready!" );
-                //});
         </script>
         
         <script>

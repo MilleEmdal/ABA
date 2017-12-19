@@ -14,7 +14,7 @@
          }
      
 ?> 
- <div id="fb"><a target="_blank" href="https://www.facebook.com/Alle-b%C3%A6rer-alle-K%C3%B8benhavn-191317401450993/?modal=admin_todo_tour"><img src="img/fbpages.jpg" alt=""></a></div>
+ <div id="fb"><a target="_blank" href="https://www.facebook.com/Alle-b%C3%A6rer-alle-K%C3%B8benhavn-191317401450993/"><img src="img/fbpages.jpg" alt=""></a></div>
 </body>
 </html>
 
