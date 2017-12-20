@@ -22,9 +22,9 @@ include 'dbcon.php';
                 <br>
                 <p> 
                  <br>
-                 Velkommen til det alterative flyttefirma, hvor vi s&aelig;tter humor, prestige, punklighed og en smilende kunde er vores top priotet,
-                 derfor hj&aelig;lper vi gerne med at pakker ned, monterer og hj&aelig;lper dig enda med at indrette hvis &oslash;nsket foreligger ingen opgaver er for 
-                 små og den d&aring;rlige attitude ligger vi hos konkurrenten.
+                 Velkommen til det alterative flyttefirma, hvor vi s&aelig;tter humor, prestige, punktlighed og en smilende kunde er vores topprioritet,
+                 derfor hj&aelig;lper vi gerne med at pakker ned, monterer og hj&aelig;lper dig endda med at indrette hvis &oslash;nsket foreligger ingen opgaver er for 
+                 sm&aring; og den d&aring;rlige attitude ligger vi hos konkurrenten.
                 </p>
                 <p>
                  <br>
