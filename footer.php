@@ -5,6 +5,6 @@
           <link rel="stylesheet" href="main.css">    
 
          <br>
-        <footer>© Copyright Mille M. Emdal 2017</footer> 
+        <footer>© Copyright 2017 Mille M. Emdal</footer> 
 </body>
 </html>

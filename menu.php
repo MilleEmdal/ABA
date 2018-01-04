@@ -1,5 +1,5 @@
 <?php
-include 'dbcon.php';
+//include 'dbcon.php';
 ?>
 <!DOCTYPE html>
 <!--
@@ -37,14 +37,16 @@ function myFunction() {
     <body>
         <div id="header">
             <img src="img/logoleg.png" class="logo">
-            <div class="overhead"><h1>Alle b&aelig;rer alle</h1></div>
-            <div class="underhead"><h2>- K&oslash;benhavn</h2></div>
+            <div class="overhead"><h1>ABA - K&oslash;benhavn flyt</h1></div>
+            <div class="underhead"><h2>Alle b&aelig;rer alle</h2></div>
         </div>
         
         <nav><ul class="menu" id="Mynav">
             <li><a class="active" href="index.php">Forside</a></li>
             <li><a href="prices.php">Priser</a></li>
             <li><a href="about.php">Om os</a></li>
+            <li><a href="bbb.php">Boligstylist</a></li>
+            <li><a href="imges.php">Billedegalleri</a></li>
             <li><a href="contact.php">Kontakt</a></li>
             <li class="icon">
             <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>

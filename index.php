@@ -1,5 +1,5 @@
 <?php
-include 'dbcon.php';
+//include 'dbcon.php';
 ?>
 <!DOCTYPE html>
 <html>
@@ -7,7 +7,7 @@ include 'dbcon.php';
         <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
           <link rel="stylesheet" href="main.css">
-        <title>ABA - K&oslash;benhavn</title>
+        <title>ABA - K&oslash;benhavn flyt</title>
     </head>
     <body>
      <!-- her starter den store box det hele ligger i -->
@@ -18,7 +18,8 @@ include 'dbcon.php';
 	<!-- her starter indholdet på siden -->       
             <article>
                 <br>
-                <h3>Alle b&aelig;rer alle - K&oslash;benhavn.</h3>
+                <h3>ABA - K&oslash;benhavn flyt</h3>
+                <h4>Alle b&aelig;rer alle</h4>
                 <br>
                 <p> 
                  <br>
